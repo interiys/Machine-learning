@@ -416,7 +416,7 @@ plt.show()
 
 ---
 
-## 📌 About the Project
+## 📌 О проекте / About the Project
 
 **Status**: 🟢 Laboratory project
 
