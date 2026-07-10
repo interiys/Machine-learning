@@ -425,3 +425,6 @@ plt.show()
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b02d24de-8dd5-41c5-9229-2060730c03e2" width="400" alt="ferret" />
 </p>
+📫 Telegram: [@injctik](https://t.me/injctik)  
+📫 VK: [@amfetaminoviu](https://vk.com/amfetaminoviu)
+📫 Mail: [denis9033@mail.ru]
