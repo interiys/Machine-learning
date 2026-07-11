@@ -1,4 +1,4 @@
-# 🤖 Мои учебные проекты по машинному обучению
+# Мои учебные проекты по машинному обучению
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📚 Оглавление
+##  Оглавление
 1. [📖 Описание проекта](#-описание-проекта)
 2. [🛠 Используемые технологии](#-используемые-технологии)
 3. [🚀 Быстрый старт](#-быстрый-старт)
@@ -19,17 +19,17 @@
 
 ---
 
-## 📖 Описание проекта
+##  Описание проекта
 
 Привет! 👋 Это мой проект по машинному обучению. Здесь я собрал все свои работы, которые делал в Google Colab во время обучения.
 
 Это коллекция Jupyter Notebooks, посвящённая фундаментальным алгоритмам машинного обучения. Каждый блокнот содержит теоретическую базу, реализацию с нуля и примеры применения на реальных данных.
 
-### 🎯 Основные темы
-- **📈 Линейная регрессия** — теория, реализация и применение к реальным данным
-- **🎯 Логистическая регрессия** — задачи классификации
-- **🧠 Перцептрон** — базовая реализация нейронной сети с нуля
-- **🔮 Нейронные сети** — реализация с различными функциями потерь
+###  Основные темы
+- ** Линейная регрессия** — теория, реализация и применение к реальным данным
+- ** Логистическая регрессия** — задачи классификации
+- ** Перцептрон** — базовая реализация нейронной сети с нуля
+- ** Нейронные сети** — реализация с различными функциями потерь
 
 ### 🎓 Для кого этот проект
 - **Студентам**, изучающим основы машинного обучения
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠 Используемые технологии
+##  Используемые технологии
 
 ### 🔧 Основные технологии
 
@@ -51,7 +51,7 @@
 | **Matplotlib** | 3.4+ | Визуализация данных |
 | **scikit-learn** | 1.0+ | Алгоритмы машинного обучения |
 
-### 📊 Алгоритмы машинного обучения
+###  Алгоритмы машинного обучения
 - **Линейные модели**: Линейная регрессия
 - **Классификация**: Логистическая регрессия, Перцептрон
 - **Нейронные сети**: Пользовательские реализации с различными активациями
@@ -59,14 +59,14 @@
 
 ---
 
-## 🚀 Быстрый старт
+##  Быстрый старт
 
-### ⚡ Предварительные требования
+###  Предварительные требования
 - Python 3.7 или выше
 - Менеджер пакетов pip
 - Git (для клонирования репозитория)
 
-### 📥 Шаги установки
+###  Шаги установки
 
 **1. Клонируйте репозиторий**
 
@@ -113,12 +113,12 @@ jupyter notebook
 import numpy as np
 import pandas as pd
 import sklearn
-print("Все пакеты успешно установлены! 🎉")
+print("Все пакеты успешно установлены!")
 ```
 
 ---
 
-## 📁 Структура проекта
+##  Структура проекта
 
 ```
 Machine-learning/
@@ -139,9 +139,9 @@ Machine-learning/
 
 ---
 
-## ✨ Возможности
+##  Возможности
 
-### 🔧 Основные возможности
+###  Основные возможности
 
 | Возможность | Описание | Иконка |
 |:---:|:---:|:---:|
@@ -153,9 +153,9 @@ Machine-learning/
 
 ---
 
-## 📓 Обзор лабораторных
+##  Обзор лабораторных
 
-### 1. 📈 Линейная регрессия
+### 1.  Линейная регрессия
 
 | Тема | Описание | Навыки |
 |:---|:---|:---|
@@ -164,18 +164,18 @@ Machine-learning/
 | **Обучение модели** | Реализация и оценка | scikit-learn |
 | **Реальное применение** | Работа с данными | Pandas, Анализ данных |
 
-### 2. 🎯 Логистическая регрессия
+### 2.  Логистическая регрессия
 - Теория бинарной классификации с вероятностной интерпретацией
 - Техники предобработки данных и one-hot кодирования
 - Оценка модели с точностью и метриками
 
-### 3. 🧠 Реализация перцептрона
+### 3.  Реализация перцептрона
 - Алгоритм перцептрона с первых принципов
 - Пользовательская реализация класса
 - Тестирование на реальных данных (голос)
 - Сравнение производительности с scikit-learn
 
-### 4. 🔮 Нейронные сети
+### 4.  Нейронные сети
 - Реализация нейронной сети с сигмоидальной активацией
 - Техники оптимизации градиентным спуском
 - Реализация функции потерь LogLoss
@@ -183,9 +183,9 @@ Machine-learning/
 
 ---
 
-## 💡 Примеры использования
+##  Примеры использования
 
-### 📈 Пример линейной регрессии
+###  Пример линейной регрессии
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -213,7 +213,7 @@ plt.title('Линейная регрессия: Фактические vs Пре
 plt.show()
 ```
 
-### 🎯 Пример логистической регрессии
+###  Пример логистической регрессии
 ```python
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
@@ -229,7 +229,7 @@ print(f'Точность: {accuracy:.4f}')
 print(classification_report(y_test, y_pred))
 ```
 
-### 🧠 Пример пользовательского перцептрона
+###  Пример пользовательского перцептрона
 ```python
 from sklearn.metrics import accuracy_score
 
@@ -255,16 +255,16 @@ plt.show()
 <a name="english-version"></a>
 ## 🇬🇧 English Version
 
-### 📖 Project Description
+###  Project Description
 Hello! 👋 This is my machine learning project. Here I collected all my works from Google Colab.
 
 This is a collection of Jupyter Notebooks covering fundamental machine learning algorithms and their implementations.
 
-### 🎯 Main Topics
-- **📈 Linear Regression** — theory, implementation, real data applications
-- **🎯 Logistic Regression** — classification problems
-- **🧠 Perceptron Algorithm** — basic neural network from scratch
-- **🔮 Neural Networks** — implementation with different loss functions
+###  Main Topics
+- ** Linear Regression** — theory, implementation, real data applications
+- ** Logistic Regression** — classification problems
+- ** Perceptron Algorithm** — basic neural network from scratch
+- ** Neural Networks** — implementation with different loss functions
 
 ### 🛠 Technologies Used
 
@@ -277,7 +277,7 @@ This is a collection of Jupyter Notebooks covering fundamental machine learning 
 | **Matplotlib** | 3.4+ | Data visualization |
 | **scikit-learn** | 1.0+ | Machine learning algorithms |
 
-### 🚀 Quick Start
+###  Quick Start
 
 ```bash
 git clone https://github.com/interiys/Machine-learning.git
@@ -286,7 +286,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-### 📁 Project Structure
+###  Project Structure
 
 ```
 Machine-learning/
@@ -305,21 +305,21 @@ Machine-learning/
 └── 📖 README.md
 ```
 
-### 📓 Laboratory Works Overview
+###  Laboratory Works Overview
 
 | File | Description |
 |:---|:---|
-| `Linear_Regression.ipynb` | 📈 Linear Regression |
-| `Logistic_Regression.ipynb` | 🎯 Logistic Regression |
-| `practice_perceptron.ipynb` | 🧠 Perceptron from scratch |
-| `practice_neuron.ipynb` | 🔮 Neuron with MSE |
-| `practice_neuron_logloss.ipynb` | 🔮 Neuron with LogLoss |
+| `Linear_Regression.ipynb` |  Linear Regression |
+| `Logistic_Regression.ipynb` |  Logistic Regression |
+| `practice_perceptron.ipynb` |  Perceptron from scratch |
+| `practice_neuron.ipynb` |  Neuron with MSE |
+| `practice_neuron_logloss.ipynb` |  Neuron with LogLoss |
 
 ---
 
-### 💡 Usage Examples
+###  Usage Examples
 
-#### 📈 Linear Regression Example
+####  Linear Regression Example
 
 ```python
 import numpy as np
@@ -348,7 +348,7 @@ plt.title('Linear Regression: Actual vs Predicted')
 plt.show()
 ```
 
-#### 🎯 Logistic Regression Example
+####  Logistic Regression Example
 
 ```python
 from sklearn.linear_model import LogisticRegression
@@ -365,7 +365,7 @@ print(f'Accuracy: {accuracy:.4f}')
 print(classification_report(y_test, y_pred))
 ```
 
-#### 🧠 Custom Perceptron Example
+####  Custom Perceptron Example
 
 ```python
 from sklearn.metrics import accuracy_score
@@ -389,7 +389,7 @@ plt.ylabel('Loss')
 plt.show()
 ```
 
-#### 🔮 Neural Network with LogLoss
+####  Neural Network with LogLoss
 
 ```python
 # Initialize neural network with LogLoss
@@ -417,8 +417,6 @@ plt.show()
 ---
 
 ## 📌 О проекте / About the Project
-
-**Status**: 🟢 Laboratory project
 
 **Author**: The author loves ferrets ;3
 
