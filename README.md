@@ -261,10 +261,10 @@ Hello! 👋 This is my machine learning project. Here I collected all my works f
 This is a collection of Jupyter Notebooks covering fundamental machine learning algorithms and their implementations.
 
 ###  Main Topics
-- ** Linear Regression** — theory, implementation, real data applications
-- ** Logistic Regression** — classification problems
-- ** Perceptron Algorithm** — basic neural network from scratch
-- ** Neural Networks** — implementation with different loss functions
+- **Linear Regression** — theory, implementation, real data applications
+- **Logistic Regression** — classification problems
+- **Perceptron Algorithm** — basic neural network from scratch
+- **Neural Networks** — implementation with different loss functions
 
 ###  Technologies Used
 
